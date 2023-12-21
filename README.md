@@ -1,2 +1,2 @@
-# spring-cloud-controller
-spring cloud项目的k8s controller
+# spring-cloud-operator
+spring cloud项目的k8s operator
